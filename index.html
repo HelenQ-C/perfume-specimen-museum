@@ -13,6 +13,41 @@
 </head>
 <body>
 
+  <div class="zoomcontainer">
+  
+    <div class="zoom">
+     <div onclick="zoomIn()" class="zoom-button1">+</div>
+     <div class="zoomtext">Zoom</div>
+     <div onclick="zoomOut()" class="zoom-button2">-</div>
+   </div>
+
+ </div>
+
+ <div class="container">
+
+   <div class="title textposition">Main Gallery</div>
+
+   <div class="sorting-menu" id="categories">
+       <li class="sort-option heightchange"><a href="#" data-category="all">All</a></li>
+         <li class="sort-option heightchange"><a href="#" data-category="all">Launched Date +</a>
+           <ul class="sub-sort-options">
+             <li><a href="#" data-category="2000s">2000-2010</a></li>
+             <li><a href="#" data-category="2011s">2011-2020</a></li>
+             <li><a href="#" data-category="2021s">2021-2030</a></li>
+           </ul>
+         </li>
+         <li class="sort-option heightchange"><a href="#" data-category="all">Brand/Designer +</a></li>
+         <li class="sort-option heightchange"><a href="#" data-category="all">Scent +</a>
+           <ul class="sub-sort-options">
+             <li><a href="#" data-category="woody">Woody</a></li>
+             <li><a href="#" data-category="leather">Leather</a></li>
+             <li><a href="#" data-category="smoky">Smocky</a></li>
+           </ul>
+         </li>
+         </li>
+     </div>
+   </div>
+
 <div id="zoom-div">
     <div class="grid">
         <div class="grid-sizer"></div>
@@ -52,41 +87,6 @@
     </div>
     </div>
 </div>
-
-    <div class="zoomcontainer">
-  
-       <div class="zoom">
-        <div onclick="zoomIn()" class="zoom-button1">+</div>
-        <div class="zoomtext">Zoom</div>
-        <div onclick="zoomOut()" class="zoom-button2">-</div>
-      </div>
-
-    </div>
-
-    <div class="container">
-
-      <div class="title textposition">Main Gallery</div>
-  
-      <div class="sorting-menu" id="categories">
-          <li class="sort-option heightchange"><a href="#" data-category="all">All</a></li>
-            <li class="sort-option heightchange"><a href="#" data-category="all">Launched Date +</a>
-              <ul class="sub-sort-options">
-                <li><a href="#" data-category="2000s">2000-2010</a></li>
-                <li><a href="#" data-category="2011s">2011-2020</a></li>
-                <li><a href="#" data-category="2021s">2021-2030</a></li>
-              </ul>
-            </li>
-            <li class="sort-option heightchange"><a href="#" data-category="all">Brand/Designer +</a></li>
-            <li class="sort-option heightchange"><a href="#" data-category="all">Scent +</a>
-              <ul class="sub-sort-options">
-                <li><a href="#" data-category="woody">Woody</a></li>
-                <li><a href="#" data-category="leather">Leather</a></li>
-                <li><a href="#" data-category="smoky">Smocky</a></li>
-              </ul>
-            </li>
-            </li>
-        </div>
-      </div>
 
     <script src="assets/main.js"></script>
 
