@@ -1,9 +1,16 @@
+
 var grid = document.querySelector('.grid');
-var masonry = new Masonry(grid, {
+
+var msnry = new Masonry( grid, {
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
     percentPosition: true,
     gutter: 15,
+});
+
+imagesLoaded( grid ).on( 'progress', function() {
+  // layout Masonry after each image loads
+  msnry.layout();
 });
 
 const sortOptions = document.querySelectorAll('.sort-option');
