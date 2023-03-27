@@ -74,3 +74,16 @@ const detail = document.getElementById("ToToggle");
 close.addEventListener("click", function() {
   detail.style.display = "none";
 });
+
+var zoomLevel = 100;
+var zoomImage = document.getElementById("zoom-image");
+
+function zoomIn() {
+  zoomLevel += 10;
+  zoomImage.style.transform = "scale(" + zoomLevel / 100 + ")";
+}
+
+function zoomOut() {
+  zoomLevel -= 10;
+  zoomImage.style.transform = "scale(" + zoomLevel / 100 + ")";
+}
