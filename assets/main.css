@@ -19,14 +19,75 @@ body {
     transition: transform .3s ease;
 }
 
-.grid-item--width2 {
+.grid-item2 {
     position: absolute;
+    width: 15%;
+}
+
+.grid-item3 {
+    width: 19%;
+}
+
+.grid-item4 {
+    width: 12%;
+}
+
+.grid-item5 {
+    width: 15%;
+}
+
+.grid-item6 {
+    width: 16%;
+}
+
+.grid-item7 {
+    width: 13%;
+}
+
+.grid-item8 {
+    width: 9%;
+}
+
+.grid-item10 {
+    width: 9%;
+}
+
+.grid-item11 {
+    width: 17%;
+}
+
+.grid-item12 {
+    width: 10%;
+}
+
+.grid-item13 {
+    width: 12%;
+}
+
+.grid-item15 {
+    width: 19%;
+}
+
+.grid-item16 {
+    width: 13%;
+}
+
+.grid-item17 {
+    width: 16%;
+}
+
+.grid-item18 {
+    width: 9%;
+}
+
+.grid-item19 {
+    width: 13%;
+}
+
+.grid-item20 {
     width: 14%;
 }
 
-.grid-item--width3 {
-    width: 19%;
-}
 .container {
     position: absolute;
     width: 100%;

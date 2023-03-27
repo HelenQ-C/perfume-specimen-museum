@@ -5,7 +5,7 @@ var msnry = new Masonry( grid, {
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
     percentPosition: true,
-    gutter: 15,
+    gutter: 12,
 });
 
 imagesLoaded( grid ).on( 'progress', function() {
