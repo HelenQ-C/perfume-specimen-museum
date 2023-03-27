@@ -133,6 +133,7 @@ body {
   
   #front, #back {
     backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
   }
 
   #back {
