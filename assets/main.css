@@ -148,6 +148,7 @@ body {
     width: 150px;
     list-style-type: none;
     display: none;
+    line-height: 150%;
   }
   
 .sub-sort-options.show {
