@@ -1,0 +1,12 @@
+[
+    {
+        "perfume": "Baz",
+        "launchedDate": 2017,
+        "branddesigner": "The Spirit of Dubai",
+        "mainAccords": "woody, amber, warm spicy, leather, sweet, fruity, smoky, animalic, aromatic",
+        "topNotes": "Falcon Leather, Cardamom, Coffee, Saffron, Coriander, Black Pepper, Aldehyde, Bergamot, Plum, Red Berries, Star Anis, Cinnamon, Nutmeg, Pepper, Clove, Mint",
+        "middleNotes": "Orchid, Carnation, Lily Of The Valley, Jasmine, Rose, Incense, Leather, Birch Leaves, Honey, Floral, Tuberose, Ylang-ylang, Geranium, Tobacco, Smoked Olibanum",
+        "baseNotes": "Guaiac Wood, Sandalwood, Cistus, Tonka, Gurjum, Copaiba, Myrrhe, Patchouli, Peru Balsam, Civet, Costus, Vetiver, Praline, Amber, Vanilla, Musk, Castoreum, Labdanum, Indian Agarwood Oil",
+        "img": "assets/imgs/img10.png"
+    }
+]

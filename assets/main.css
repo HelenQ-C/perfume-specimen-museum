@@ -145,6 +145,7 @@ body {
 }
 
 .sub-sort-options {
+    width: 150px;
     list-style-type: none;
     display: none;
   }

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Across</title>
+	<link rel="stylesheet" href="assets/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+    <div class="zoomcontainer">
+  
+        <div class="zoom">
+         <div onclick="zoomIn()" class="zoom-button1">+</div>
+         <div class="zoomtext">Zoom</div>
+         <div onclick="zoomOut()" class="zoom-button2">-</div>
+       </div>
+    
+     </div>
+
+    <div class="textcontainer">
+        <div class="back"><a href="../index.html"> + Back to Gallery </a></div>
+    </div>
+
+    <div class="container">
+        <div id="zoom-image">
+        <div class="main">
+            <img src="assets/imgs/perfumedetail.png" class="center">
+        </div>
+        <div id="Button">
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.34 49.34" class="circlesize2">
+                <circle class="cls-1" cx="24.67" cy="24.67" r="24.67"/> 
+            </svg>
+            <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.34 49.34" class="circlesize">
+                <circle class="cls-1" cx="24.67" cy="24.67" r="24.67"/> 
+            </svg>
+        </div>
+    </div>
+    </div> 
+
+    <div class="Detail" id="ToToggle">
+            <div class="background"></div>
+        <div id="flip-container">
+            <div id="flipper">
+                <div class="paper" id="front">
+                    <img src="assets/imgs/front.png" class="resize">
+                    <div id="data-output" class="info"></div>
+                </div>
+                <div class="paper" id="back">
+                    <img src="assets/imgs/back.png" class="resize">
+                    <div id="data-output2" class="info2"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+            
+</div>
+
+    <script src="assets/main.js"></script>
+
+</body>
+</html>

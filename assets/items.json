@@ -1,95 +1,258 @@
 [
     {
         "perfume": "Habinita",
-        "img": "img1.png"
+        "launchedDate": 2012,
+        "branddesigner": "Molinard",
+        "mainAccords": "woody, powdery, aromatic, fresh spicy, vanilla, balsamic, earthy, amber, yellow floral, rose",
+        "topNotes": "Lentisque, Geranium, Petitgrain",
+        "middleNotes": "Vetiver, Jasmine, Rose",
+        "baseNotes": "Amber, Sandalwood, Oakmoss",
+        "img": "assets/imgs/img1.png"
     },
     {
         "perfume": "Blamage",
-        "img": "img2.png"
+        "launchedDate": 2014,
+        "branddesigner": "Nasomatto",
+        "mainAccords": "leather, woody, smoky, musky, animalic, powdery",
+        "topNotes": "Birch, Musk, White Woods, Leather",
+        "img": "assets/imgs/img2.png"
     },
     {
         "perfume": "Hai Hui",
-        "img": "img3.png"
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "aromatic, woody, green, fresh spicy, fruity, spicy, sweet",
+        "topNotes": "Pineapple, Black pepper, Pepermint, Cardamom",
+        "middleNotes": "Elemi, Almond, Fig",
+        "baseNotes": "Vetiver, Papyrus, Woody accords",
+        "img": "assets/imgs/img3.png"
     },
     {
-        "img": "img4.png"
+        "perfume": "Dark",
+        "launchedDate": 2020,
+        "branddesigner": "Neandertal",
+        "mainAccords": "aromatic, amber, leather. fresh spicy, woody, smoky, animalic, warm spicy, balsamic, marine",
+        "topNotes": "Foliage, Ginger, Pink Pepper, Grapefruit & Pine",
+        "middleNotes": "Incense, Geranium, Caraway & Seaweed",
+        "baseNotes": "Vetiver, Patchouli, Oud, Amber, Musk, Leather, Sandalwood, Tobacco & Labdanum Absolute",
+        "img": "assets/imgs/img4.png"
     },
     {
-        "img": "img5.png"
+        "perfume": "Across",
+        "launchedDate": 2018,
+        "branddesigner": "M.A+ ",
+        "mainAccords": "earthy, woody, spicy, green",
+        "topNotes": "Celery, Rhubarb, Galbanum",
+        "middleNotes": "Orris, Ylang ylang",
+        "baseNotes": "Myrrh, Tobacco. Birch tar, Costus, Cashmere wood, Amber, Styrax, Cedar wood",
+        "img": "assets/imgs/img5.png"
     },
     {
-        "img": "img6.png"
+        "perfume": "Black Afgano",
+        "launchedDate": 2009,
+        "branddesigner": "Nasomatto",
+        "mainAccords": "amber, smoky, oud, woody, cannabis, balsamic, green, aromatic, warm spicy, tobacco",
+        "topNotes": "Cannabis, Green Notes",
+        "middleNotes": "Resins, Woodsy Notes, Tobacco, Coffee",
+        "baseNotes": "Agarwood (Oud), Incense",
+        "img": "assets/imgs/img6.png"
     },
     {
-        "img": "img7.png"
+        "perfume": "Psychopath",
+        "launchedDate": 2022,
+        "branddesigner": "Synes Moon",
+        "mainAccords": "green, citrus, amber, woody, floral, powdery, musky, aromatic, balsamic, animalic",
+        "img": "assets/imgs/img7.png"
     },
     {
-        "img": "img8.png"
+        "perfume": "The Tragedy Of Lord George",
+        "launchedDate": 2016,
+        "branddesigner": "Penholigon's",
+        "mainAccords": "woody, amber, vanilla, warm spicy, sweet",
+        "topNotes": "Woodsy Notes, Brandy, Amber, Tonka Bean",
+        "img": "assets/imgs/img8.png"
     },
     {
-        "img": "img9.png"
+        "perfume": "Legend",
+        "launchedDate": 2014,
+        "branddesigner": "Boadicea the Victorious",
+        "mainAccords": "powdery, woody, iris, floral, violet, oud, earthy, amber",
+        "topNotes": "Neroli, Orange",
+        "middleNotes": "Jasime, Saffron, Rose",
+        "baseNotes": "Orris, Amber, Musk",
+        "img": "assets/imgs/img9.png"
     },
     {
-        "img": "img10.png"
+        "perfume": "Baz",
+        "launchedDate": 2017,
+        "branddesigner": "The Spirit of Dubai",
+        "mainAccords": "woody, amber, warm spicy, leather, sweet, fruity, smoky, animalic, aromatic",
+        "topNotes": "Falcon Leather, Cardamom, Coffee, Saffron, Coriander, Black Pepper, Aldehyde, Bergamot, Plum, Red Berries, Star Anis, Cinnamon, Nutmeg, Pepper, Clove, Mint",
+        "middleNotes": "Orchid, Carnation, Lily Of The Valley, Jasmine, Rose, Incense, Leather, Birch Leaves, Honey, Floral, Tuberose, Ylang-ylang, Geranium, Tobacco, Smoked Olibanum",
+        "baseNotes": "Guaiac Wood, Sandalwood, Cistus, Tonka, Gurjum, Copaiba, Myrrhe, Patchouli, Peru Balsam, Civet, Costus, Vetiver, Praline, Amber, Vanilla, Musk, Castoreum, Labdanum, Indian Agarwood Oil",
+        "img": "assets/imgs/img10.png"
     },
     {
-        "img": "img11.png"
+        "perfume": "Oud for Greatness",
+        "launchedDate": 2018,
+        "branddesigner": "Initio Parfums Prives",
+        "mainAccords": "warm spicy, fresh spicy, oud. lavender. metallic, patchouli. musky, leather, tobacco, earthy",
+        "topNotes": "Saffron, Nutmeg, Lavender",
+        "middleNotes": "Agarwood (Oud)",
+        "baseNotes": "Patchouli, Musk",
+        "img": "assets/imgs/img11.png"
     },
     {
-        "img": "img12.png"
+        "perfume": "Mukhallath Seufi",
+        "launchedDate": 2013,
+        "branddesigner": "Al Haramain",
+        "mainAccords": "rose, warm spicy, woody, fresh spicy, oud, aromatic, powdery, sweet, musky, amber",
+        "img": "assets/imgs/img12.png"
     },
     {
-        "img": "img13.png"
+        "perfume": "Frammenti",
+        "launchedDate": 2023,
+        "branddesigner": "Bois 1920",
+        "mainAccords": "citrus, green, floral, fruity, aromatic, violet, fresh spicy, powdery, woody",
+        "topNotes": "Bergamot, Grapefruit, Rhubarb, Black Currant, Green Notes",
+        "img": "assets/imgs/img13.png"
     },
     {
-        "img": "img14.png"
+        "perfume": "Triumph Of Bacchus",
+        "launchedDate": 2019,
+        "branddesigner": "Argos",
+        "mainAccords": "vanilla, sweet, woody, warm spicy, fruity, tobacco, amber, rum, powdery, patchouli",
+        "topNotes": "Rum, Green Apple, White Peach, Saffron",
+        "middleNotes": "Tonka Bean, Patchouli, Vetiver, Jasmine",
+        "baseNotes": "Tobacco, Vanilla, Amber, Sandalwood, Musk",
+        "img": "assets/imgs/img14.png"
     },
     {
-        "img": "img15.png"
+        "perfume": "Dilema",
+        "launchedDate": 2021,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "woody, leather, warm spicy, amber, patchouli, balsamic, animalic, sweet",
+        "topNotes": "Bergamot, Saffron",
+        "middleNotes": "Myrrh absolute, Licorice",
+        "baseNotes": "Black Leather, Patchouly oil, Papyrus oil, Modern woody accords",
+        "img": "assets/imgs/img15.png"
     },
     {
-        "img": "img16.png"
+        "perfume": "Saints Tears",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "amber, woody, balsamic, mossy, aromatic, earthy, smoky, warm spicy",
+        "topNotes": "Elemi oil, Incense oil and resinoide, Térébenthine oil",
+        "middleNotes": "BMyrrh absolute, Labdanum absolute, Wood wax",
+        "baseNotes": "Cedarwood Virginia and Atlas oil, Oakmoss, Modern woods",
+        "img": "assets/imgs/img16.png"
     },
     {
-        "img": "img17.png"
+        "perfume": "Mioritic Green Edition",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "woody, aromatic, balsamic, fresh spicy, fruity, patchouli. sweet, citrus, warm spicy, amber",
+        "topNotes": "Basil oil, Pink pepper oil, Elemi oil",
+        "middleNotes": "Fig, Incense oil, Grapefruit",
+        "baseNotes": "Patchouly oil, White musk, Modern wood",
+        "img": "assets/imgs/img17.png"
     },
     {
-        "img": "img18.png"
+        "perfume": "Le Mat",
+        "launchedDate": 2014,
+        "branddesigner": "Mendittorosa",
+        "mainAccords": "warm spicy, fresh spicy, rose, herbal, woody, patchouli, sweet, floral, aromatic, balsamic",
+        "topNotes": "Nutmeg, Black Pepper, Cloves, Egyptian Geranium, Rosa Centifolia from Grasse, Indonesian Patchouli, Cashmere wood, Spanish Immortelle",
+        "img": "assets/imgs/img18.png"
     },
     {
-        "img": "img19.png"
+        "perfume": "Charlatan",
+        "launchedDate": 2016,
+        "branddesigner": "Fort & Manle",
+        "mainAccords": "fruity, sweet, floral, white floral, rose, earthy, chocolate, amber, warm spicy, vanilla",
+        "topNotes": "Pear, Dark Chocolate",
+        "middleNotes": "Truffle, Moroccan Jasmine, Damask Rose, Vanilla",
+        "baseNotes": "Amber, Madagascar Vanilla, Osmanthus, Australian Sandalwood",
+        "img": "assets/imgs/img19.png"
     },
     {
-        "img": "img20.png"
+        "perfume": "Origini",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "woody, white floral, patchouli, amber, balsamic, aromatic, warm spicy, sweet, cannabis, coconut",
+        "topNotes": "Sage Oil, Black Pepper Oil, Coconut",
+        "middleNotes": "Canapa Sativa Oil (Hemp), Orange Blossom, Myrrh Resinoide",
+        "baseNotes": "Patchouly Oil, Cashmere Wood, Modern Woods",
+        "img": "assets/imgs/img20.png"
     },
     {
-        "img": "img21.png"
+        "perfume": "Journey of Life",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "cacao, woody, leather, fruity, smoky, warm spicy, aromatic, sweet, earthy, musky",
+        "topNotes": "Grape, Clary Sage",
+        "middleNotes": "Cypriol, Plum",
+        "baseNotes": "Cocoa, Vetiver Absolute, Castoreum",
+        "img": "assets/imgs/img21.png"
     },
     {
-        "img": "img22.png"
+        "perfume": "Perseide",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "white floral, tuberose, animalic, fresh spicy, leather, aromatic, rose",
+        "topNotes": "Tuberose Absolute India, Orange Blossom, Bulgarian Rose",
+        "middleNotes": "Geranium China, Jasmin Absolute Egypt, Leather",
+        "baseNotes": "Sandalwood New Caledonia, Agarwood, Musk",
+        "img": "assets/imgs/img22.png"
     },
     {
-        "img": "img23.png"
+        "perfume": "Scuro",
+        "launchedDate": 2023,
+        "branddesigner": "Bois 1920",
+        "mainAccords": "citrus, fresh spicy, aromatic, balsamic, amber, smoky, warm spicy",
+        "topNotes": "Elemi, Bergamot, Grapefruit, Black Pepper, Incense",
+        "middleNotes": "Sichuan Pepper, Cardamom, Jasmine",
+        "baseNotes": "Vanilla, Guaiac Wood, Cashmere Wood, Amber, Musk",
+        "img": "assets/imgs/img23.png"
     },
     {
-        "img": "img24.png"
+        "perfume": "Maduro",
+        "launchedDate": 2016,
+        "branddesigner": "Fort & Manle",
+        "mainAccords": "sweet, fruity, honey, woody, tobacco, amber, warm spicy, aromatic, vanilla, fresh",
+        "topNotes": "Pineapple, Red Apple, Cinnamon, Basil",
+        "middleNotes": "Honey, Beeswax, Damask Rose, Bourbon Vanilla",
+        "baseNotes": "Tobacco, Vetiver, Benzoin, Patchouli, Amber, Atlas Cedar",
+        "img": "assets/imgs/img24.png"
     },
     {
-        "img": "img25.png"
+        "perfume": "Soul Tattoo",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "woody, warm spicy, aromatic, camphor, sweet, fresh spicy, amber, powdery, vanilla, lavender",
+        "topNotes": "Nutmeg, maple, cardamom, camphor",
+        "middleNotes": "Heliotrope, Sandalwood, Tobacco abs, pine, Tolu, lavander",
+        "baseNotes": "Benzoin, Cacao, milk, ebony wood, musk, tonka beans, vanilla",
+        "img": "assets/imgs/img25.png"
     },
     {
-        "img": "img26.png"
+        "perfume": "Gruia",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "woody, earthy, tobacco, sweet, fresh spicy, amber, balsamic, lavender, ozonic",
+        "topNotes": "Nutmeg, Clove Leaf, Lavender",
+        "middleNotes": "Copaiba balsam, Tobacco absolute,Violet Leaf",
+        "baseNotes": "Musk, Nagarmotha, Opoponax, Soil Tincture, Wood Tincture",
+        "img": "assets/imgs/img26.png"
     },
     {
-        "img": "img27.png"
-    },
-    {
-        "img": "img28.png"
-    },
-    {
-        "img": "img29.png"
-    },
-    {
-        "img": "img30.png"
+        "perfume": "Dark Weed",
+        "launchedDate": 2022,
+        "branddesigner": "Adi Ale Van",
+        "mainAccords": "fruity, aromatic, woody, green, metallic, cannabis, fresh spicy, smoky, mineral, sweet",
+        "topNotes": "Bergamote, Blackcurrant, Rose, Metal",
+        "middleNotes": "Canabis, Rose absolute, Rhubarb",
+        "baseNotes": "Patchouli, Incense Somalie, Tabac, Fir, Civet",
+        "img": "assets/imgs/img27.png"
     }
 ]
