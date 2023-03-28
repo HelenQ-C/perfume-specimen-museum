@@ -1,0 +1,12 @@
+[
+    {
+        "perfume": "Habinita",
+        "launchedDate": 2012,
+        "branddesigner": "Molinard",
+        "mainAccords": "woody, powdery, aromatic, fresh spicy, vanilla, balsamic, earthy, amber, yellow floral, rose",
+        "topNotes": "Lentisque, Geranium, Petitgrain",
+        "middleNotes": "Vetiver, Jasmine, Rose",
+        "baseNotes": "Amber, Sandalwood, Oakmoss",
+        "img": "assets/imgs/img1.png"
+    }
+]
