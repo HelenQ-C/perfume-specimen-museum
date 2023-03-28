@@ -37,6 +37,10 @@ body {
     width: 100%;
   }
 
+  .paper {
+    cursor: pointer;
+  }
+
     .info {
     color: black;
     font-family: 'Courier New', Courier, monospace;
