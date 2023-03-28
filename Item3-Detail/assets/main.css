@@ -308,7 +308,7 @@ a:visited {
       position: relative;
       left: 545px;
       top: -350px;
-      animation: pop 2.5s linear infinite;
+      animation: pop 2.5s linear infinite; 
       opacity: 0.5;
     }
   }
